@@ -1,0 +1,7 @@
+group Server
+Microsoft.AspNetCore
+Microsoft.AspNetCore.StaticFiles
+Fable.Remoting.Giraffe
+Microsoft.Azure.Management.Storage
+Microsoft.Azure.Management.ResourceManager
+Microsoft.Azure.Management.Fluent

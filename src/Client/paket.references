@@ -1,0 +1,7 @@
+group Client
+Fable.Elmish.Debugger
+Fable.Elmish.HMR
+Fable.Remoting.Client
+Fable.FontAwesome.Free
+Fulma.Extensions.Wikiki.Checkradio
+Fulma.Extensions.Wikiki.Divider
